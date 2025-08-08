@@ -20,19 +20,19 @@
 <div align="center">
 
 ### 🏠 Home Section
-![Home Preview](./src/assets/img/imagen1.png)
+![Home Preview](./src/assets/img/Imagen1.png)
 *Interactive 3D hero section with dynamic animations*
 
 ### 💼 Projects Section  
-![Projects Preview](./src/assets/img/imagen3.png)
+![Projects Preview](./src/assets/img/Imagen3.png)
 *Showcase of featured projects with smooth transitions*
 
 ### 🎯 Skills Section
-![Skills Preview](./src/assets/img/imagen2.png)
+![Skills Preview](./src/assets/img/Imagen2.png)
 *3D visualization of technical skills and expertise*
 
 ### 📞 Contact Section
-![Contact Preview](./src/assets/img/imagen4.png)
+![Contact Preview](./src/assets/img/Imagen4.png)
 *Interactive contact form with 3D elements*
 
 </div>
