@@ -2,10 +2,10 @@
 
 <div align="center">
   
-  ![Portfolio](https://img.shields.io/badge/Portfolio-2024-brightgreen?style=for-the-badge)
-  ![React](https://img.shields.io/badge/React-18.2.0-61DAFB?style=for-the-badge&logo=react)
-  ![Vite](https://img.shields.io/badge/Vite-4.4.0-646CFF?style=for-the-badge&logo=vite)
-  ![Three.js](https://img.shields.io/badge/Three.js-0.155.0-000000?style=for-the-badge&logo=three.js)
+  ![Portfolio](https://img.shields.io/badge/Portfolio-2025-brightgreen?style=for-the-badge)
+  ![React](https://img.shields.io/badge/React-19.1.0-61DAFB?style=for-the-badge&logo=react)
+  ![Vite](https://img.shields.io/badge/Vite-7.0.4-646CFF?style=for-the-badge&logo=vite)
+  ![Three.js](https://img.shields.io/badge/Three.js-0.179.1-000000?style=for-the-badge&logo=three.js)
 
 </div>
 
